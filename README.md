@@ -16,6 +16,8 @@ Bilderkennung z.B. mit OpenCV https://opencv.org/
 
 Links:
 - https://opencv.org/blog/raspberry-pi-with-opencv/
+- https://www.mindee.com/blog/digit-recognition-python-opencv
+- https://circuitdigest.com/microcontroller-projects/license-plate-recognition-using-raspberry-pi-and-opencv
 
 ## Benötigte Hardware (Variante 2: Microcontroller+Kamera - Applikation - Microcontroller+Aktor)
 
